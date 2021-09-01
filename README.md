@@ -4,7 +4,8 @@
 My name is Christopher Hurban 
 
 
-Here is a Little Bit About Myself
+Here is a Little Bit About Myself:
+
 - :school_satchel: I’m currently a part time student at RVCC ...
 - :floppy_disk: I’m in my last year at RVCC as an Interface Major ...
 - :smile: 2018 Gradute from Hunterdon Central Regional High School
@@ -14,6 +15,7 @@ Here is a Little Bit About Myself
 - :bike: Fun fact: Prior to the pandemic I cycled about five hundred mies per month during the summer while working at a scout camp...
 
 In my free time you can find me doing the following things: 
+
 - :camera: Taking photos and editing them using free software similar to Adobe Photoshop
 - :video_game: Playing video games 
 - :computer: Buying and selling things on eBay
